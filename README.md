@@ -8,7 +8,7 @@ It also serves as a reference for our academic publication submitted as part of 
 
 ## 🚀 How It Works
 
-### 🧪 1. Dataset
+### 🧪 1. Dataset 
 
 We use public chest X-ray datasets labeled as:
 - COVID-19
